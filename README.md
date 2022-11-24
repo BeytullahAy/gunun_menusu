@@ -1,22 +1,22 @@
 
 ## GÜNÜN MENÜSÜ
 
-Günün menüsü adlı uygulama basitçe ekranda çıkan resimlerden birine tıklandığında
-rastgele olarak yeni 3 farklı yemeği ekrana getiren bir uygulamadır.
+When one of the images that appear on the screen is clicked on, the application display named menu of the day
+It is an application that randomly offers new 3 different dining tables.
 
 
 <img src="https://user-images.githubusercontent.com/81561442/161336907-5fa744db-be56-4d83-acfd-4f9b0beecac0.jpg" width='600'>
 
 
-## İÇERİĞİ
+## CONTENT
 
-- StatelessWidget ve StatefulWidget widgetlarının farkları.
-- Uygulamaya nasıl resim yükleneceği.
-- Listelerin kullanımı. 
-- Random() fonksiyonu kullanımı.
-- Expanded  widgetinin kullanımı.
+- Differences between StatelessWidget and StatefulWidget widgets.
+- How to upload images to the app.
+- Use of lists.
+- Using the Random() function.
+- Use of the Expanded widget.
 
-gibi temel konular hakkında basit bir uygulamadır.
+It is a simple application about basic topics such as
 
 <!---       <img src="">     --->   
 
